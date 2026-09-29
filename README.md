@@ -1,18 +1,20 @@
-Chat Project
+ Chat Project
+
+![Deploy to GitHub Pages](https://github.com/tide1983/chat-project/actions/workflows/deploy.yml/badge.svg)
 
 Корпоративный чат с использованием WebSocket.
 
-Демо
+ 🌐 Демо
 
-🌐 **[Открыть чат на GitHub Pages](https://tide1983.github.io/chat-project/)**
+**[Открыть чат на GitHub Pages](https://tide1983.github.io/chat-project/)**
 
-Стек
+ 🛠 Стек
 
-- Frontend: React, Webpack, WebSocket
-- Backend: Node.js, Express, WebSocket ([репозиторий](https://github.com/tide1983/my-chat-backend))
-- Хостинг backend: [Amvera](https://amvera.ru/)
+- **Frontend:** React, Webpack, WebSocket
+- **Backend:** Node.js, Express, WebSocket ([репозиторий](https://github.com/tide1983/my-chat-backend))
+- **Хостинг backend:** [Amvera](https://amvera.ru/)
 
-Функционал
+ ✨ Функционал
 
 - Регистрация пользователя по имени (с проверкой уникальности)
 - Список всех участников чата в реальном времени
@@ -21,7 +23,7 @@ Chat Project
 - Сообщения собеседников выровнены влево
 - Пользователи удаляются из списка при отключении
 
-Скрипты
+ 📦 Скрипты
 
 ```bash
 npm install       # установка зависимостей
